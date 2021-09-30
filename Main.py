@@ -2,7 +2,7 @@
 # By Anshul
 # Lets do it
 
-import tle
+import turtle
 import time
 import random
 
